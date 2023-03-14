@@ -1,0 +1,3 @@
+/home/user/Desktop/splinux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/splinux/cmake-build-debug/CMakeFiles/splinux.dir
+/home/user/Desktop/splinux/cmake-build-debug/CMakeFiles/edit_cache.dir

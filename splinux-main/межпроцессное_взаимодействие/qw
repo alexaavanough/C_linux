@@ -1,0 +1,8 @@
+//        /* Удаление семафора (хз работет ли, но вроде надо) */
+//        waitpid(pid_l, &status, WUNTRACED | WCONTINUED);
+//        auto rtrn = semctl (semid, 100, IPC_RMID, 0);
+//        if (rtrn == -1)
+//        {
+//            perror("Error on semctl");
+//            exit(1);
+//        }
